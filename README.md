@@ -44,6 +44,25 @@ The dataset will be available for download soon. Please check back or contact th
 
 ---
 
+---
+
+## 🖼️ Sample Images
+
+### Raw Images (Camera Input)
+<p float="left">
+  <img src="examples/sample_1_raw.jpg" width="250" />
+  <img src="examples/sample_2_raw.jpg" width="250" />
+  <img src="examples/sample_3_raw.jpg" width="250" />
+</p>
+
+### Annotated Images (With Pore Segmentation)
+<p float="left">
+  <img src="examples/sample_1_annotated.jpg" width="250" />
+  <img src="examples/sample_2_annotated.jpg" width="250" />
+  <img src="examples/sample_3_annotated.jpg" width="250" />
+</p>
+
+
 ## 🎓 Citation
 
 If you use this dataset in your research, please cite our paper:
