@@ -33,7 +33,7 @@ This repository contains the first publicly available annotated dataset for pore
 ## 📊 Dataset Statistics
 
 ### Pore Size Distribution
-<img src="statistics/pore_size_distribution.pdf" width="600" />
+<img src="statistics/pore_size_distribution.png" width="600" />
 
 - **Median Area:** 277 pixels²
 - **Mean Area:** 504 pixels²
@@ -42,12 +42,12 @@ This repository contains the first publicly available annotated dataset for pore
 - **Large Pores (>1000 px²):** 16%
 
 ### Pore Count Distribution
-<img src="statistics/pore_histogram.pdf" width="600" />
+<img src="statistics/pore_histogram.png" width="600" />
 
 ### Dataset Split Comparison
 <p float="left">
-  <img src="statistics/split_histogram.pdf" width="400" />
-  <img src="statistics/split_boxplot.pdf" width="400" />
+  <img src="statistics/split_histogram.png" width="400" />
+  <img src="statistics/split_boxplot.png" width="400" />
 </p>
 
 The training, validation, and test splits are balanced with similar pore count distributions.
