@@ -53,11 +53,17 @@ This repository contains the first publicly available annotated dataset for pore
 The training, validation, and test splits are balanced with similar pore count distributions.
 ---
 
+---
+
 ## 📥 Download
 
-The dataset will be available for download soon. Please check back or contact the authors.
+**Dataset Availability:** The dataset will be made publicly available following the official publication of our paper at WACV 2026 (March 6-10, 2026).
 
----
+In the meantime, researchers interested in early access may contact the corresponding author with a brief description of their intended use.
+
+**Paper Status:** Accepted at WACV 2026  
+**Conference Dates:** March 6-10, 2026  
+**Expected Public Release:** After IEEE Xplore publication (typically 2-4 weeks post-conference)
 
 ---
 
