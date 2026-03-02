@@ -95,7 +95,7 @@ If you use this dataset in your research, please cite our paper:
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {March},
     year      = {2026},
-    pages     = {4673-4681}
+    pages     = {4673-4681} ```
 }
 
 ## 📄 License
