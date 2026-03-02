@@ -113,7 +113,8 @@ For questions about the dataset, please open an issue on this repository or cont
 
 ## 🙏 Acknowledgments
 
-This work was supported by the Air Force Office of Scientific Research (AFOSR).
+This research work is supported in part by the Air Force Office of Scientific Research (AFOSR) under award number FA9550-23-1-0725 and the National Science Foundation (NSF) under award number 1900699. The views, findings, and conclusions contained in this paper are those of
+the authors and should not be interpreted as representing the official policies, either expressed or implied, of the AFOSR, the NSF, or the U.S. government.
 
 ---
 
