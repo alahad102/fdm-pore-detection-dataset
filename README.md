@@ -87,11 +87,16 @@ In the meantime, researchers interested in early access may contact the correspo
 ## 🎓 Citation
 
 If you use this dataset in your research, please cite our paper:
+
 ```bibtex
-
-```
-
----
+@InProceedings{Al_Ahad_Khan_2026_WACV,
+    author    = {Al Ahad Khan, Abdullah and Islam, Md Shariful and Li, Lin and Jiang, Lai and Ghaffari, Noushin},
+    title     = {Automated Pore Detection from In-Situ FDM 3D Printing Video: A Comparative Evaluation of Modern Segmentation Models},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {4673-4681}
+}
 
 ## 📄 License
 
