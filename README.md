@@ -55,15 +55,23 @@ The training, validation, and test splits are balanced with similar pore count d
 
 ---
 
-## 📥 Download
+## 📥 Dataset Download
 
-**Dataset Availability:** The dataset will be made publicly available following the official publication of our paper at WACV 2026 (March 6-10, 2026).
+The dataset is publicly available on Zenodo:
 
-In the meantime, researchers interested in early access may contact the corresponding author with a brief description of their intended use.
+🔗 https://doi.org/10.5281/zenodo.19009033
 
-**Paper Status:** Accepted at WACV 2026  
-**Conference Dates:** March 6-10, 2026  
-**Expected Public Release:** After IEEE Xplore publication (typically 2-4 weeks post-conference)
+This dataset contains annotated pore segmentation masks extracted from in-situ FDM 3D printing video recordings.  
+It is provided in multiple formats to support different machine learning frameworks:
+
+- YOLOv8 segmentation format
+- COCO segmentation format
+- Pascal VOC format
+- TensorFlow TFRecord format
+- SAM2 compatible format
+
+
+If you use this dataset in your research, please cite our paper and the dataset.
 
 ---
 
